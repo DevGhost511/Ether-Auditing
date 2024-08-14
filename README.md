@@ -1,5 +1,5 @@
 # Callisto Smart-contract auditing department.
-
+ 
 Callisto Security department performs security audits of smart-contracts. Anyone can submit a request for security audit of a smart-contract following the rules described below.
 
 # Security Audit options
